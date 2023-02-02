@@ -3,4 +3,4 @@ Best Minecraft Motion Blur Shader
 
 Turn off fast render and put it in your shaderspacks folder
 
-I am aware it removes hit color but tbh the game looks smoother without it
+I am aware it removes hit color but tbh the game looks smoother without it (if you are using motion blur you prob want that anyways)

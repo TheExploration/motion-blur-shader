@@ -1,3 +1,6 @@
+![Static Badge](https://img.shields.io/badge/build-passing-brightgreen)
+[![GitHub release](https://img.shields.io/github/release/TheExploration/motion-blur-shader.svg)](https://GitHub.com/TheExploration/Plants-Vs-Zombies.js/releases/)
+![GitHub all releases](https://img.shields.io/github/downloads/TheExploration/motion-blur-shader/total)
 # motion-blur-shader
 Best Minecraft Motion Blur Shader
 
